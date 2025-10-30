@@ -1,6 +1,6 @@
 # Hi there, I'm [Elias]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNlPN_AoM0XJmUeYTdrlikTmBVMXc1Gte_w&s)
 
 ## About Me 🚀
 
