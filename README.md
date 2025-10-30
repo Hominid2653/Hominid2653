@@ -1,45 +1,81 @@
-# Hi there, I'm [Elias]! 👋
+<!--
+┌───────────────────────────────────────────────────────────────┐
+│              Elias Cheruiyot (Hominid2653)                   │
+└───────────────────────────────────────────────────────────────┘
+-->
 
-![Banner Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNlPN_AoM0XJmUeYTdrlikTmBVMXc1Gte_w&s)
+# 👋 Hi there, I’m Elias Cheruiyot  
+### Software Engineer | IT Student @ Kabarak University | Photography Enthusiast  
 
-## About Me 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eliascheruiyot9@gmail.com)  
+[![GitHub followers](https://img.shields.io/github/followers/Hominid2653?style=social)](https://github.com/Hominid2653)
 
-I'm a passionate **[IT Student]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+---
 
-- 🌱 Currently learning: **[DevOps]**
-- 🔭 Working on: **[WissenWelle, Bllom Info]**
-- 🌍 Languages: **[HTML, PHP, Python, C++, Java, Kotlin, CSS, Typescript]**
-- 📫 How to reach me: **[eliascheruiyot9@gmail.com]**
-- ⚡ Fun fact: **[I love thinking!]**
+## 🎯 About Me  
+- I’m currently in my **4th year of BSc. IT** at [Kabarak University](https://www.kabarak.ac.ke) — registration # INTE/MG/1816/09/21  
+- As a full-stack enthusiast, I love **building, exploring and shipping real-world projects**  
+- I’m also a **photographer & tutor** at Snap Aisle, blending creativity with technology  
+- Chess player ♟️, always strategic in both code and play  
+- Some of my current passions:  
+  - Developing **FrameMatch** — a Kotlin + Jetpack Compose app connecting photographers & clients  
+  - Designing UI with a clean, modern Instagram-inspired style  
+  - Teaching a photography-journey course: from auto to manual mode, gear setup and projects  
+  - Exploring DevOps practices and cloud-backed workflows  
 
-## My Skills 🧠
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## 🛠 My Expertise  
+### Languages & Frameworks  
+`Kotlin` · `Java` · `C++` · `Python` · `HTML5` · `CSS3` · `TypeScript` · `PHP`  
+`Jetpack Compose` · `Android` · `Firebase` · `REST API` · `UI/UX Design`
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+### Tools & Concepts  
+- Android Studio (Ladybug)  
+- Figma → implementing UI designs into Compose code  
+- Role-based navigation & deep linking (Photographer vs Client flows)  
+- App architecture: clean, modular, with external data models  
+- Photography workflow: camera settings, manual mode, portfolio management  
 
-## Featured Projects 💻
+### Some fun badges  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-### [Project 1 Title](project_1_link)
+---
 
-![Project 1 Screenshot](project_1_screenshot_url)
+## 🚀 Featured Projects  
+### [FrameMatch](https://github.com/Hominid2653/FrameMatch)  
+A mobile platform where clients post photography jobs and photographers bid – built in Kotlin with Jetpack Compose and backed by Firebase.  
+Your one-stop app for scheduling, portfolios, and project management.
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+### [Photography Journey Course](https://github.com/Hominid2653/PhotographyJourney) *(coming soon)*  
+A tutorial series and web/app companion: teaching photographers how to move from auto to manual mode, setup gear, manage portfolios and build projects.
 
-### [Project 2 Title](project_2_link)
+### [Student-Entrepreneur Platform](https://github.com/Hominid2653/StudentServicesPortal)  
+A full-stack website + companion Android app enabling students at Kabarak University to showcase their services, receive ratings, and get verified via registration numbers.
 
-![Project 2 Screenshot](project_2_screenshot_url)
+---
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+## 📈 GitHub Stats  
+[![Elias’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Hominid2653&show_icons=true&theme=tokyonight)](https://github.com/Hominid2653)  
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hominid2653&theme=tokyonight&layout=compact)](https://github.com/Hominid2653)
 
-## Get in Touch 📬
+---
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+## ✨ Let’s Connect  
+I’m always up for collaborating on cool projects, exploring new app ideas, or teaching photography.  
+Feel free to **drop me a message**, **fork one of my repos**, or **spin up an idea together**!
 
+Let’s build something amazing.  
+Cheers,  
+**Elias**
 
+---
+
+<p align="center">  
+  <em>“Ideas are just the start — execution is where the magic happens.”</em>  
+</p>
