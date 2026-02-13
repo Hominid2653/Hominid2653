@@ -4,15 +4,6 @@
 └───────────────────────────────────────────────────────────────┘
 -->
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/Hominid2653">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F8FF2&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Elias+Cheruiyot!;Software+Engineer+%7C+IT+Student+%7C+Photographer;Always+building%2C+learning%2C+and+teaching." alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ### 💫 About Me  
 🎓 I’m a **4th-year BSc. IT student** at [Kabarak University](https://www.kabarak.ac.ke).  
 💻 I’m passionate about **building, exploring, and thinking deeply** through code.  
