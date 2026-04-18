@@ -26,6 +26,13 @@
 
 ---
 
+### ⚙️ Activity
+
+<img src="https://ghchart.rshah.org/0F6E56/Hominid2653" alt="Elias's contribution graph" width="100%" />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/...
+
 ### 🧩 Tools & Concepts I Use  
 - **Jetpack Compose** · **Next.js** · **ShadCN/UI**  
 - **Firebase / Supabase / MySQL / Postgres**  
