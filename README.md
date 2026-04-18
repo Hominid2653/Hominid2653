@@ -63,16 +63,20 @@ Built using **Next.js + Supabase**.
 
 ### ⚙️ My GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hominid2653&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hominid2653&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+## GitHub analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hominid2653&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hominid2653&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hominid2653&theme=tokyo-night" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hominid2653&theme=tokyonight&hide_border=true&mode=weekly" />
 </p>
 
----
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hominid2653&theme=tokyo-night&include_all_commits=true" />
+</p>
 
 ### 🌐 Let’s Connect  
 
