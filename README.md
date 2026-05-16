@@ -7,10 +7,10 @@
 ### 💫 About Me  
 🎓 I’m a **4th-year BSc. IT student** at [Kabarak University](https://www.kabarak.ac.ke).  
 💻 I’m passionate about **building, exploring, and thinking deeply** through code.  
-📸 I work as a **photographer and tutor** at Snap Aisle — combining creativity with technology.  
+📸 I work as a **photographer and tutor** at Snap Aisle.  
 ♟️ I also play **chess**, and I love applying the same strategy mindset to development.  
 
-🚀 Right now, I’m focused on:  
+Right now, I’m focused on:  
 - Building **FrameMatch** — a Kotlin + Jetpack Compose app connecting photographers and clients  
 - Developing **BloomInfo** — a data-driven flower trial management system  
 - Expanding **WissenWelle** — an ecosystem-based learning platform  
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧠 My Tech Stack  
+### My Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,typescript,react,nextjs,tailwind,firebase,supabase,mysql,postgres,python,java,cpp,figma,vscode,vercel" />
@@ -33,7 +33,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/...
 
-### 🧩 Tools & Concepts I Use  
+### Tools & Concepts I Use  
 - **Jetpack Compose** · **Next.js** · **ShadCN/UI**  
 - **Firebase / Supabase / MySQL / Postgres**  
 - **Cursor AI**, **Vercel**, **Android Studio**  
@@ -42,7 +42,7 @@
 
 ---
 
-### 🚀 My Featured Projects  
+### My Featured Projects  
 
 #### 🌿 [BloomInfo](https://github.com/Hominid2653/BloomInfo) *(Active)*  
 I’m building BloomInfo — a **data-driven flower trial management system** for growers and research facilities.  
