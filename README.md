@@ -48,7 +48,7 @@ Right now, I’m focused on:
 I’m building BloomInfo — a **data-driven flower trial management system** for growers and research facilities.  
 It’s built with **Next.js + ShadCN + Tailwind**, and helps users track trials, analyze data, and visualize results beautifully.
 
-#### 🎓 [WissenWelle](https://github.com/Hominid2653/WissenWelle) *(Ongoing)*  
+#### 🎓 [WissenWelle](https://www.wissenWelle.com) *(Ongoing)*  
 I’m helping shape **WissenWelle**, an ecosystem-based course platform that reimagines online learning.  
 We’re integrating **AI**, **professional skill ecosystems**, and **structured education experiences**.  
 Tech stack: **Next.js · Supabase · TailwindCSS · Vercel**
