@@ -79,7 +79,7 @@ data class Developer(
 
 ### 🌿 [BloomInfo](https://github.com/Hominid2653/BloomInfo) ![Active](https://img.shields.io/badge/Active-1D9E75?style=flat-square)
 
-A **data-driven flower trial management system** for growers and research facilities. Track trials, analyze data, visualize results.
+A **data-driven flower trial management system** for growers and research facilities.
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![ShadCN](https://img.shields.io/badge/ShadCN-white?style=flat-square&logo=shadcnui&logoColor=black)
